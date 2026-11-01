@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[183],{356:e=>{"use strict";e.exports=require("node:buffer")},905:(e,r,s)=>{"use strict";async function n(){console.log("[instrumentation] register() — runtime:","edge")}s.r(r),s.d(r,{register:()=>n}),s(356).Buffer,process.env.UPDATE_REPO,process.env.UPDATE_ASSET}},e=>{var r=e(e.s=905);(_ENTRIES="undefined"==typeof _ENTRIES?{}:_ENTRIES).middleware_instrumentation=r}]);
+//# sourceMappingURL=edge-instrumentation.js.map
